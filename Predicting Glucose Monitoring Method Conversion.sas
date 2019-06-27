@@ -1,17 +1,3 @@
-/************************************************************************/
-/* 										        						*/
-/* Capstone Project: Predicting Glucose Monitoring Method Conversion 	*/
-/*                                                                      */
-/* Prepared By:				                                */
-/*     Kornkanok Somkul                                        		*/
-/*     Shashi Bala Lnu                                                 	*/
-/*     Peter Cao                                                    	*/                      
-/* 							                */
-/* National University                                                	*/
-/* May 2019                                      			*/
-/*     								        */
-/************************************************************************/
-
 ****************;
 * IMPORT FILE  *; 
 ****************;
