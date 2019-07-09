@@ -3,7 +3,7 @@
 ****************;
 libname Cproject "~/Capstone/data";
 
-FILENAME REFFILE '/home/kanoksomkul0/Capstone/data/capstone_project_data_v2.csv';
+FILENAME REFFILE '/home/shashibala/Capstone/data/capstone_project_data_v2.csv';
 
 PROC IMPORT DATAFILE=REFFILE
 	DBMS=CSV
@@ -622,7 +622,7 @@ proc discrim data=work.validate distance;
 * EXPORT FILE  *; 
 ****************;
 
-proc export DATa=cproject.clean
+proc export DATA=cproject.clean
 outfile="~/Capstone/data"
 dbms=XLS replace;
 run;
